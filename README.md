@@ -8,8 +8,11 @@ We strive to provide our clients with the best resources to make an educated dec
 
 * * *
 
-*   Themes
-*   [Legal Template 1](#intro)
+*   Sites Created with GitHub Pages
+*   [Legal Template 1](https://ak-visual-marketing.github.io/law-firm-template1/)
+*   [Legal Template 2](https://ak-visual-marketing.github.io/law-firm-template2/)
+*   [Isopod Info Site](http://spacepods.us/)
+*   [HTML5 Theme](https://ak-visual-marketing.github.io/AKVM-HTML5-Template/)
 
 
 When you purchase a site from AKVM, you will have access to our codebase. This allows for you to view and request custom integrations and take a peek at the 'behind the scenes' work we put in to make your site special. This documentation will help teach you more about our templates and how they are structured.
