@@ -14,27 +14,6 @@ We strive to provide our clients with the best resources to make an educated dec
 
 When you purchase a site from AKVM, you will have access to our codebase. This allows for you to view and request custom integrations and take a peek at the 'behind the scenes' work we put in to make your site special. This documentation will help teach you more about our templates and how they are structured.
 
-#### File Structure
-
-unzip the compressed archive to see the following structure:
-
- Legal/
-  ├── Documentation/
-  ├── HTML/
-      ├── assets/
-          ├── css
-          ├── icons
-          ├── images
-          ├── fonts
-          ├── js
-          ├── less
-          ├── revolution
-          └── php
-      ├── index(intro)
-      ├── home-1.html
-      ├── ...
-      └── cotact-us.html
-
 #### Html Structure
 
 we use the **bootstrap** framework as a framework. You can take a look at bootstrap [here](http://getbootstrap.com/) and see it's feature in action.
