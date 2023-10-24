@@ -11,9 +11,10 @@ We strive to provide our clients with the best resources to make an educated dec
 *   Sites Created with GitHub Pages
 *   [Legal Template 1](https://ak-visual-marketing.github.io/law-firm-template1/)
 *   [Legal Template 2](https://ak-visual-marketing.github.io/law-firm-template2/)
-*   [Isopod Info Site](http://spacepods.us/)
+*   [Isopod Info Site - Fun & Creative Site](http://spacepods.us/)
 *   [HTML5 Theme](https://ak-visual-marketing.github.io/AKVM-HTML5-Template/)
 *   [Designer Portfolio](https://ak-visual-marketing.github.io/personal-portfolio-template/)
+*   [Single Page HTML](https://ak-visual-marketing.github.io/singlepage/)
 *   
 
 
